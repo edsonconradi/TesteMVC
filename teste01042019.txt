@@ -1,0 +1,7 @@
+﻿30024300802;30024300802;Marilia Cecília Monteiro;30024300802;07/04/1984;F;1;marilia.adrian@hotmail.com;Rua Nelson Balente de Aguiar, 81;08676-320;Vila Sol Nascente;Suzano;SP;Brasil;(11) 960396808;-;-;A;85;1;7
+35034248816;35034248816;Arlene Coutinho Carvalho;35034248816;23/07/1983;F;1;arlenebsexy@gmail.com;Vereador Fortunato Pandolfe Aenoni, 433;09414-130;Jd. Caçula;Ribeirão Pires;SP;BRASIL;(11) 99946-8234;-;-;A;85;1;7
+41466011858;41466011858;Miriele Andrade da Silva Alves;41466011858;06/06/1992;F;1;miriele_andrade@hotmail.com;R Martinho Prado, 243;09185-200;Jd. Cristiane;Santo André;SP;Brasil;(11) 985535648;-;-;A;85;1;7
+41722440848;41722440848;Stephany Guimarães Marcondes;41722440848;22/12/1991;F;1;biomedste@gmail.com;Rua Vicente Grecco, 365;09371-453;Pq. São Vicente;Mauá;SP;Brasil;(11) 997340576;-;-;A;85;1;7
+38794006873;38794006873;Jéssica Cristina de Moura da Silva;38794006873;06/05/1991;F;1;danilos.caramuru@outlook.com;R José de Alencar, 134;09330-775;Jd. Feital;Mauá;SP;Brasil;(11) 96378-8228;-;-;A;85;1;7
+04070044400;04070044400;Andréa Michelle dos Santos;04070044400;17/02/1981;F;1;andre.michelle@hotmail.com;Rua Dr. Augusto Reinaldo Silva, 67 ap. 803;50721-160;Cordeiro;Recife;PE;Brasil;(81)99836-3844;-;-;A;85;1;7
+34149536848;34149536848;Silvia Maria de Sousa Retrão;34149536848;16/09/1985;F;1;silviaretrao@hotmail.com;Rua São João da Barra, 26;09381-090;Jd. Oratório;Mauá;SP;Brasil;(11) 4518-25463;-;-;A;85;1;7
